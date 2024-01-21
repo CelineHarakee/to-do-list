@@ -8,9 +8,6 @@ A task management system that allows users to generate, remove, and modify tasks
 - Java
 - Java Swing 
 
-## Authors:
-- [@CelineHarakee]
-- @Dana
 ## Contributors
-
-- [@CelineHarakee](https://github.com/CelineHarakee): Made significant contributions to the project.
+- [Celine Al Harake](https://github.com/CelineHarakee)
+- [Dana Al Rijjal](
