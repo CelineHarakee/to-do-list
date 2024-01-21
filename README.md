@@ -10,4 +10,4 @@ A task management system that allows users to generate, remove, and modify tasks
 
 ## Contributors
 - [Celine Al Harake](https://github.com/CelineHarakee)
-- [Dana Al Rijjal](
+- [Dana Al Rijjal](https://github.com/daaalrijjal)
