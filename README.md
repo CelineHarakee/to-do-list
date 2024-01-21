@@ -9,5 +9,5 @@ A task management system that allows users to generate, remove, and modify tasks
 - Java Swing 
 
 ## Authors:
-- @CelineHarakee
+- [@CelineHarakee]
 - @Dana
