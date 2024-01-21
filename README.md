@@ -11,3 +11,6 @@ A task management system that allows users to generate, remove, and modify tasks
 ## Authors:
 - [@CelineHarakee]
 - @Dana
+## Contributors
+
+- [@CelineHarakee](https://github.com/CelineHarakee): Made significant contributions to the project.
